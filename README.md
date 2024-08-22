@@ -33,7 +33,7 @@ Designed a wearable device for fetal monitoring that uses **Deep Learning** and 
 
 ## 💼 Internships
 
-### Embedded Systems Intern | Emzente, February 2024
+### Embedded Systems Intern | Emertze, February 2024
 Designed and implemented a microcontroller-based washing machine simulation using **PICSimLab**, focusing on embedded systems development and simulation software.
 
 ### Web Development Intern | Let's Grow More (LGM), August 2023
@@ -60,7 +60,7 @@ Developed multiple web applications using **HTML**, **CSS**, and **JavaScript**,
 
 - Presented at a national conference in RACES '24 on **INTEGRATED AUTOMATED SECURITY AND COMMUNICATION SYSTEM FOR SMALL RETAIL SHOPS**.
 - Attended a workshop on **CALCHOHOLICS**, a Maths-related club event.
-- Participated in inplant training at **BSNL**, **RGM TTC**, and **ROTMC**.
+- Participated in inplant training at **BSNL**.
 
 ## 🔗 Let's Connect
 
